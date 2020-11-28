@@ -1,5 +1,7 @@
 # Analog Gauge Reader
 
+### gauge reader asad .py  (https://github.com/Fredware/analog-gauge-reader)
+### Analogue_reader-II.ipynb (https://github.com/axn170037/Analogue-Gauge-Reader/blob/master/Analogue_reader-II.ipynb)
 This sample application takes an image or video frame of an analog gauge and reads the value using functions from the OpenCV\* computer vision library.
 It consists of two parts: calibration and measurement.  During calibration, the application calibrates an image 
 of a gauge (provided by the user) by prompting the user to enter the range of gauge values in degrees.  It then uses these 
